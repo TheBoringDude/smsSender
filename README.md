@@ -1,4 +1,4 @@
-![SMS Sender Logo](/app.jpg)
+![SMS Sender Logo](/app.png)
 # smsSender
 Simple SMS Sender App using the TWILIO API Gateway
 
