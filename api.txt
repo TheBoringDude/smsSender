@@ -1,0 +1,5 @@
+{
+	"account_sid": "enter_account_sid",
+	"auth_token": "enter_auth_token",
+	"phoneNumber": "enter_phone_number"
+}
